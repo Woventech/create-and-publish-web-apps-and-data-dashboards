@@ -1,5 +1,5 @@
-import streamlit as st
 import pandas as pd
+import streamlit as st
 
 data = {
   'series_1' : [1, 2, 3, 5, 7],
